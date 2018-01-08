@@ -1,10 +1,12 @@
 foocoin integration/staging tree
 ================================
 
-http://www.foocoin.org
+http://www.foocoin.net
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2018 foocoin Developers
+
 
 What is foocoin?
 ----------------
@@ -19,7 +21,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the foocoin client sofware, see http://www.foocoin.org.
+the foocoin client sofware, see http://www.foocoin.net.
 
 License
 -------
