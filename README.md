@@ -23,6 +23,26 @@ The rest is the same as Bitcoin.
 For more information, as well as an immediately useable, binary version of
 the foocoin client sofware, see http://foocoin.net.
 
+Wallet Setup
+------------
+
+Ubuntu 16.04
+
+1) Download source to your machine
+
+2) Extract source and cd into source folder
+
+3) Setup build enviornment
+
+sudo apt-get install make g++ libboost-dev libssl-dev libdb-dev libdb++-dev libminiupnpc-dev libboost-all-dev qt4-qmake libqt4-dev build-essential libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev
+
+4) qmake
+
+5) make
+
+6) ./foocoin-qt
+
+
 License
 -------
 
