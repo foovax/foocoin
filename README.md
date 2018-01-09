@@ -42,6 +42,8 @@ sudo apt-get install make g++ libboost-dev libssl-dev libdb-dev libdb++-dev libm
 
 6) ./foocoin-qt
 
+Refer to doc/readme-qt.rst for additional details and alternative options.
+
 
 License
 -------
