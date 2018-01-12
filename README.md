@@ -20,8 +20,7 @@ The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the foocoin client sofware, see http://foocoin.net.
+For more information see http://foocoin.net.
 
 Wallet Setup
 ------------
